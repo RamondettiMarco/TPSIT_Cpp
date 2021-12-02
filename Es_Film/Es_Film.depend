@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1634892560 source:c:\users\utente\desktop\itis\informatica\c_4\es_film\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	"classGestione_Files.h"
+
+1634892402 c:\users\utente\desktop\itis\informatica\c_4\es_film\classgestione_files.h
+
+1637237266 source:c:\users\utente\desktop\itis\tpsit\c++\es_film\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	"classGestione_Files.h"
+
+1635068680 c:\users\utente\desktop\itis\tpsit\c++\es_film\classgestione_files.h
+

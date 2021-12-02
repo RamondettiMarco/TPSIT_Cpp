@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1636632791 source:c:\users\utente\desktop\itis\informatica\c_4\ramondetti_marco_c++\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	"classGestione_Files.h"
+
+1636633010 c:\users\utente\desktop\itis\informatica\c_4\ramondetti_marco_c++\classgestione_files.h
+
+1638356993 source:c:\users\utente\desktop\itis\tpsit\c++\ramondetti_marco_c++\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	"classGestione_Files.h"
+	<stdlib.h>
+
+1638357072 c:\users\utente\desktop\itis\tpsit\c++\ramondetti_marco_c++\classgestione_files.h
+

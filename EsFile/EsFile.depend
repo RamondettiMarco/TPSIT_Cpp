@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1633682217 source:c:\users\utente\desktop\itis\tpsit\c\esfile\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+
+1634287400 source:c:\users\utente\desktop\itis\tpsit\c++\esfile\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+

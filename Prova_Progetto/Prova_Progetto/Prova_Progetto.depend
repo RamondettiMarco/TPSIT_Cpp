@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1635327919 source:c:\users\d.paolo.piovano\documents\codeblocks\prova_progetto\main.cpp
+	<iostream>
+	<Vector_2D.h>
+
+1635327958 c:\users\d.paolo.piovano\documents\codeblocks\prova_progetto\include\vector_2d.h
+
+1635521634 source:c:\users\utente\desktop\itis\tpsit\c++\prova_progetto\prova_progetto\main.cpp
+	<iostream>
+	<Vector_2D.h>
+
+1635521634 c:\users\utente\desktop\itis\tpsit\c++\prova_progetto\prova_progetto\include\vector_2d.h
+
+1635521634 source:c:\users\utente\desktop\itis\tpsit\c++\prova_progetto\prova_progetto\src\vector_2d.cpp
+	"Vector_2D.h"
+
